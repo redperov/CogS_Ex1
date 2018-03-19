@@ -1,8 +1,9 @@
-from executor import Executor
+from pddlsim.executors.executor import Executor
 import pddlsim.planner as planner
 
 
 class PlanDispatcher(object):
+
     def __init__(self):
         super(PlanDispatcher, self).__init__()
         self.steps = []

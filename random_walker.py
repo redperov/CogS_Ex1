@@ -1,8 +1,8 @@
 import random
-from pddlsim.successors.tracked_successor import TrackedSuccessor
 
 
 class RandomExecutor(object):
+
     def __init__(self):
         self.successors = None
 

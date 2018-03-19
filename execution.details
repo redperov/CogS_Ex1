@@ -100,9 +100,9 @@ Plan found with cost: 101
 99. (MOVE-EAST PERSON1 T97 T98)
 100. (MOVE-EAST PERSON1 T98 T99)
 101. (MOVE-EAST PERSON1 T99 GOAL_TILE)
-Time: 0.012
+Time: 0.016
 Generated: 0
 Expanded: 0
-Total time: 0.012
+Total time: 0.016
 Nodes generated during search: 2602
 Nodes expanded during search: 2551
